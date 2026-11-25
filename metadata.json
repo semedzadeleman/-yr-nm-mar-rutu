@@ -1,0 +1,6 @@
+{
+  "name": "ÖyrənməMarşrutu",
+  "description": "Hər uşaq öz sürəti ilə öyrənir! İbtidai sinif şagirdləri, müəllimlər və pedaqoqlar üçün yaşa və bilik səviyyəsinə uyğun fərdi interaktiv öyrənmə platforması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
